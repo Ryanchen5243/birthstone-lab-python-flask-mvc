@@ -3,24 +3,24 @@ def get_birthstone(month):
     if mon == "january":
         return "Garnet"
     elif mon == "february":
-        return "amethyst"
+        return "Amethyst"
     elif mon == "march": 
         return "Aquamarine"
     elif mon == "april":
-        return
+        return "Diamond"
     elif mon == "may":
-        return
+        return "Emerald"
     elif mon == "june":
-        return
+        return "Pearl"
     elif mon == "july":
-        return
+        return "Ruby"
     elif mon == "august":
-        return
+        return "Peridot"
     elif mon == "september":
-        return
+        return "Sapphire"
+    elif mon == "october":
+        return "Opal"
     elif mon == "november":
-        return
+        return "Citrine"
     elif mon == "december":
-        return
-
-    
+        return "Topoz"
